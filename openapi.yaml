@@ -132,7 +132,7 @@ components:
       properties:
         user_id:
           type: integer
-        name:
+        fullName:
           type: string
     Order:
       type: object
