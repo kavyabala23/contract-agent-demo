@@ -146,3 +146,5 @@ components:
         status:
           type: string
           enum: [placed, shipped, delivered, cancelled]
+        tracking_number:
+          type: string
