@@ -86,7 +86,7 @@ paths:
                 product_id:
                   type: integer
                 quantity:
-                  type: integer
+                  type: string
       responses:
         '201':
           description: Order created
